@@ -11,7 +11,7 @@ ARDA_ROOT="$(
         && pwd
 )"
 
-PROP_REPO="${ARDA_PROPRIETARY_REPO:-Deadknight/arda-aaos-proprietary}"
+PROP_REPO="${ARDA_PROPRIETARY_REPO:-arda-aaos/arda-aaos-proprietary}"
 PROP_TAG="${ARDA_PROPRIETARY_TAG:-gas-payload-2026-07-06}"
 ASSET_NAME="arda-aaos-proprietary-payload.tar"
 
